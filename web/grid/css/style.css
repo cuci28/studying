@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+.gridRoot {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.gridChild {
+  text-align: center;
+  border: 2px;
+  border: solid;
+  margin: 1px
+}

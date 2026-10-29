@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: white;
+}
+
+.bodyTitle {
+  text-align: center;
+  border: 0px solid;
+  border-radius: 10px;
+  margin: 1px;
+}
+
+.mainDiv {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.childDiv {
+  text-align: center;
+  border: 0px solid;
+  border-radius: 10px;
+  margin: 1px;
+  font-size: x-large;
+}
+
+.mainText {
+  text-align: justify;
+  margin-top: 18px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.childText {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: large;
+}
+
+.image {
+  width: 600px;
+  height: 600px;
+  border-radius: 10px;
+}
