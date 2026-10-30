@@ -30,7 +30,6 @@ public class StrSearch {
         }
 
       }
-    }
     System.out.println(wordsCount);
   }
 }
