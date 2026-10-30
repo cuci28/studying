@@ -26,7 +26,7 @@ body {
 :root {
 --page-bg: grey;
 --calc-bg: #2f2f2f;
---result-bg: blue;
+--result-bg: lightgrey;
 --result-color: red;
 --goal-color: white;
 }
